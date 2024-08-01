@@ -1,3 +1,3 @@
 # .start
-first Git Repository
+first Git Repository.
 Author - Sanskriti
